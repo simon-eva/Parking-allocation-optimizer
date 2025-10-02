@@ -35,7 +35,7 @@ It evaluates and compares two strategies:
 
   # Run the simulation
   ```bash
-  python parking_optimization.py
+  python parking_optimisation.py
   ```
   This will:
     - Run both naive and optimized algorithms
